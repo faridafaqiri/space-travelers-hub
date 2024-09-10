@@ -10,7 +10,7 @@ This project showcases the use of React components, Redux for state management, 
 
 
 Demo 📸
-![Screenshot (202)](https://github.com/user-attachments/assets/cbac7eeb-8e6a-4031-b3f6-e410bddae268)
+![Screenshot (202)](https://faridafaqiri.github.io/space-travelers-hub/)
 
 
 
